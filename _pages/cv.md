@@ -8,8 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+ 
 
-* My career interests lie in Computer Network and Automation Testing. 
 
+[Click to View My Curriculum Vitae [PDF]](http://JiaxingWang129.github.io/files/JiaxingWang_CV.pdf)
 
-<!-- <embed src="http://lantaoyu.com/files/lantaoyu_cv.pdf" width="650" height="1800" type='application/pdf'> -->
+<!-- <embed src="http://JiaxingWang129.github.io/files/JiaxingWang_CV.pdf" width="650" height="1800" type='application/pdf'> -->
